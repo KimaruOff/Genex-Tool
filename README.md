@@ -3,10 +3,7 @@
 как использовать
 
 ## Для termux или Linux
-для установки всех нужных библеотек введите:
-```bash
-pip install -r requirements.txt
-```
+
 **Установите Python и pip**  
    Убедитесь, что у вас установлен Python и pip. Если они не установлены, выполните следующую команду:
    - Для Linux:
@@ -20,8 +17,14 @@ pip install -r requirements.txt
      pkg install python
      ```
 **Скачайте сам скрипт**
-   Для начала:
    ```bash
    git clone https://github.com/KimaruOff/Genex_Tool.git
    cd Genex_Tool
    ```
+**Разархивируйте архив и запускайте скрипт**
+   ```bash
+   unzip "Genex - OSINT.zip"
+   cd "Genex - OSINT"
+   pip install -r requirements.txt
+   python Genex-Tool.py
+```
