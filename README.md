@@ -4,9 +4,23 @@
 
 ## Для termux или Linux
 
+### Установите Git, если он не установлен
+
+Если у вас еще не установлен Git, выполните следующую команду для его установки:
+
+- Для **Linux** (Debian/Ubuntu):
+  ```bash
+  sudo apt-get update
+  sudo apt-get install git
+
+ - Для **Termux**
+   ```bash
+   pkg update
+   pkg install git
+   ``` 
 **Установите Python и pip**  
    Убедитесь, что у вас установлен Python и pip. Если они не установлены, выполните следующую команду:
-   - Для Linux:
+   - Для Linux (Debian/Ubuntu):
      ```bash
      sudo apt-get update
      sudo apt-get install python3 python3-pip
