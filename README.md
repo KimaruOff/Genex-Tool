@@ -7,3 +7,15 @@
 ```bash
 pip install -r requirements.txt
 ```
+**Установите Python и pip**  
+   Убедитесь, что у вас установлен Python и pip. Если они не установлены, выполните следующую команду:
+   - Для Linux:
+     ```bash
+     sudo apt-get update
+     sudo apt-get install python3 python3-pip
+     ```
+   - Для Termux:
+     ```bash
+     pkg update
+     pkg install python
+     ```
