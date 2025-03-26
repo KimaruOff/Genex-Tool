@@ -19,3 +19,9 @@ pip install -r requirements.txt
      pkg update
      pkg install python
      ```
+**Скачайте сам скрипт**
+   Для начала:
+   ```bash
+   git clone https://github.com/KimaruOff/Genex_Tool.git
+   cd Genex_Tool
+   ```
