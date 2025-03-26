@@ -3,7 +3,7 @@
 как использовать
 
 ## Для termux или Linux
-введите
+для установки всех нужных библеотек введите:
 ```bash
 pip install -r requirements.txt
 ```
