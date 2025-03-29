@@ -37,8 +37,8 @@
    ```
 **Разархивируйте архив и запускайте скрипт**
    ```bash
-   unzip "Genex 1.5 - OSINT.zip"
-   cd "Genex 1.5 - OSINT"
+   unzip "Genex 1.6 - OSINT.zip"
+   cd "Genex 1.6 - OSINT"
    pip install -r requirements.txt
    python Genex-Tool.py
 ```
