@@ -1,5 +1,5 @@
 ### Genex Tool
-![screenshot.jpg] (https://github.com/KimaruOff/Genex-Tool/blob/main/screenshot.jpg)
+![screenshot.jpg] ([https://github.com/KimaruOff/Genex-Tool/blob/main/screenshot.jpg](https://github.com/KimaruOff/Genex-Tool/blob/52093cc3e28fb383f9ab0caefa2c3b8a8b647947/screenshot.jpg))
 #### как использовать
 
 ## Для termux или Linux
