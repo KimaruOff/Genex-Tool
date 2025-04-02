@@ -33,7 +33,7 @@
 **Скачайте сам скрипт**
    ```bash
    git clone https://github.com/KimaruOff/Genex_Tool.git
-   cd Genex_Tool
+   cd Genex-Tool
    ```
 **Разархивируйте архив и запускайте скрипт**
    ```bash
